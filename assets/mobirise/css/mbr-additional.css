@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -21,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 4.25rem;
 }
 .display-1 > .mbr-iconfont {
@@ -169,8 +169,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #0f7699 !important;
-  border-color: #0f7699 !important;
+  background-color: #073b4c !important;
+  border-color: #073b4c !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -178,14 +178,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #084053 !important;
-  border-color: #084053 !important;
+  background-color: #010506 !important;
+  border-color: #010506 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #084053 !important;
-  border-color: #084053 !important;
+  background-color: #010506 !important;
+  border-color: #010506 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -333,22 +333,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #062e3c;
-  color: #062e3c;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #0f7699;
-  border-color: #0f7699;
+  background-color: #073b4c;
+  border-color: #073b4c;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #0f7699 !important;
-  border-color: #0f7699 !important;
+  background-color: #073b4c !important;
+  border-color: #073b4c !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -468,7 +468,7 @@ body {
   color: #98fb98 !important;
 }
 .text-secondary {
-  color: #0f7699 !important;
+  color: #073b4c !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -494,7 +494,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #062e3c !important;
+  color: #000000 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1396,12 +1396,12 @@ body {
 }
 .cid-roqKE8oJBs .navbar {
   padding: .5rem 0;
-  background: #98fb98;
+  background: #073b4c;
   transition: none;
   min-height: 77px;
 }
 .cid-roqKE8oJBs .navbar-dropdown.bg-color.transparent.opened {
-  background: #98fb98;
+  background: #073b4c;
 }
 .cid-roqKE8oJBs a {
   font-style: normal;
@@ -1492,7 +1492,7 @@ body {
   padding-bottom: 0;
 }
 .cid-roqKE8oJBs .dropdown .dropdown-menu {
-  background: #98fb98;
+  background: #073b4c;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1794,12 +1794,47 @@ body {
   color: #ffffff !important;
 }
 .cid-roqN3SKTV7 {
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/mbr-1920x721.jpg");
+}
+.cid-roIs7klCg9 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/home-1-bg-1-1920x844.jpg");
+}
+.cid-roIs7klCg9 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-roIs7klCg9 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-roIs7klCg9 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-roIs7klCg9 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-roIs7klCg9 H1 {
+  color: #073b4c;
+}
+.cid-roIs7klCg9 .mbr-text,
+.cid-roIs7klCg9 .mbr-section-btn {
+  color: #073b4c;
 }
 .cid-roqOWTqIt3 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #232323;
+  background-color: #073b4c;
 }
 @media (max-width: 767px) {
   .cid-roqOWTqIt3 .content {
