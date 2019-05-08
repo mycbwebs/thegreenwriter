@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-04-22_2201",
+    "name": "The Green Writer",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -51,7 +51,9 @@
     ],
     "uniqCompNum": 22,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
