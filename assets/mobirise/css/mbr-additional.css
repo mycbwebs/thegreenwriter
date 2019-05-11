@@ -1835,7 +1835,7 @@ body {
 .cid-roIBwgD9yF {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1081.jpg");
 }
 .cid-roIBwgD9yF .testimonials-container {
   margin: 0 auto;
@@ -1879,7 +1879,7 @@ body {
 }
 .cid-rpUTDZXRJq {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rpUTDZXRJq .mbr-section-subtitle {
@@ -1934,6 +1934,11 @@ body {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-rqbYDj4Ffo {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-roIzqSyxfE {
   padding-top: 90px;
