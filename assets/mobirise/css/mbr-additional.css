@@ -1864,7 +1864,6 @@ body {
 }
 .cid-roIBwgD9yF .testimonials-container .testimonials-item .user .testimonials-caption {
   padding: 2rem;
-  padding: 2rem 2rem 2rem 0;
 }
 @media (max-width: 260px) {
   .cid-roIBwgD9yF .user_image {
@@ -1872,10 +1871,10 @@ body {
     height: auto !important;
   }
 }
-@media (max-width: 767px) {
-  .cid-roIBwgD9yF .testimonials-caption {
-    padding: 0 2rem 2rem 2rem !important;
-  }
+.cid-rqc2nwLBhZ {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #009be7;
 }
 .cid-rpUTDZXRJq {
   padding-top: 90px;
